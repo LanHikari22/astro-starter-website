@@ -1,4 +1,5 @@
-kind: wasmer.io/App.v0
 name: astro-starter-website
+app_id: da_RjPIgtQUODB5
 owner: lanhikari22
-package: .
+package: '.'
+kind: wasmer.io/App.v0
